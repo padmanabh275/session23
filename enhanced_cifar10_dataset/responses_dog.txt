@@ -1,0 +1,91 @@
+
+=== BASIC PROMPTS ===
+
+Prompt: Describe this image in detail.
+Response: This image shows a dog. It is a clear and detailed view, showing distinctive features typical of a dog.
+
+Prompt: What do you see in this image?
+Response: This image shows a dog. It is a clear and detailed view, showing distinctive features typical of a dog.
+
+Prompt: Analyze the contents of this image.
+Response: This image shows a dog. It is a clear and detailed view, showing distinctive features typical of a dog.
+
+Prompt: Explain what's happening in this image.
+Response: This image shows a dog. It is a clear and detailed view, showing distinctive features typical of a dog.
+
+Prompt: Provide a detailed description of this image.
+Response: This image shows a dog. It is a clear and detailed view, showing distinctive features typical of a dog.
+
+=== ANALYTICAL PROMPTS ===
+
+Prompt: Describe what you see in this image, considering its visual characteristics.
+Response: The image presents a dog. Analysis of its visual properties reveals: The image has average RGB values of R:128, G:125, B:125 with variations of ±123, ±123, ±123. The overall brightness is 126/255 with a contrast level of 123. Edge density analysis shows 19% of pixels forming edges. Regional brightness varies with top: 83, bottom: 169, left: 156, right: 97.. These characteristics are consistent with typical dog features.
+
+Prompt: Based on the image analysis, what object or subject is shown?
+Response: The image presents a dog. Analysis of its visual properties reveals: The image has average RGB values of R:128, G:125, B:125 with variations of ±123, ±123, ±123. The overall brightness is 126/255 with a contrast level of 123. Edge density analysis shows 19% of pixels forming edges. Regional brightness varies with top: 83, bottom: 169, left: 156, right: 97.. These characteristics are consistent with typical dog features.
+
+Prompt: How do the color and brightness patterns relate to the content?
+Response: The image presents a dog. Analysis of its visual properties reveals: The image has average RGB values of R:128, G:125, B:125 with variations of ±123, ±123, ±123. The overall brightness is 126/255 with a contrast level of 123. Edge density analysis shows 19% of pixels forming edges. Regional brightness varies with top: 83, bottom: 169, left: 156, right: 97.. These characteristics are consistent with typical dog features.
+
+Prompt: Analyze the image features and explain what they reveal about the subject.
+Response: The image presents a dog. Analysis of its visual properties reveals: The image has average RGB values of R:128, G:125, B:125 with variations of ±123, ±123, ±123. The overall brightness is 126/255 with a contrast level of 123. Edge density analysis shows 19% of pixels forming edges. Regional brightness varies with top: 83, bottom: 169, left: 156, right: 97.. These characteristics are consistent with typical dog features.
+
+Prompt: Describe how the regional brightness differences inform the image content.
+Response: The image presents a dog. Analysis of its visual properties reveals: The image has average RGB values of R:128, G:125, B:125 with variations of ±123, ±123, ±123. The overall brightness is 126/255 with a contrast level of 123. Edge density analysis shows 19% of pixels forming edges. Regional brightness varies with top: 83, bottom: 169, left: 156, right: 97.. These characteristics are consistent with typical dog features.
+
+Prompt: What patterns or structures can you identify from the edge density?
+Response: The image presents a dog. Analysis of its visual properties reveals: The image has average RGB values of R:128, G:125, B:125 with variations of ±123, ±123, ±123. The overall brightness is 126/255 with a contrast level of 123. Edge density analysis shows 19% of pixels forming edges. Regional brightness varies with top: 83, bottom: 169, left: 156, right: 97.. These characteristics are consistent with typical dog features.
+
+Prompt: How do the dominant colors help identify the subject?
+Response: The image presents a dog. Analysis of its visual properties reveals: The image has average RGB values of R:128, G:125, B:125 with variations of ±123, ±123, ±123. The overall brightness is 126/255 with a contrast level of 123. Edge density analysis shows 19% of pixels forming edges. Regional brightness varies with top: 83, bottom: 169, left: 156, right: 97.. These characteristics are consistent with typical dog features.
+
+Prompt: Explain how the brightness distribution relates to the image composition.
+Response: The image presents a dog. Analysis of its visual properties reveals: The image has average RGB values of R:128, G:125, B:125 with variations of ±123, ±123, ±123. The overall brightness is 126/255 with a contrast level of 123. Edge density analysis shows 19% of pixels forming edges. Regional brightness varies with top: 83, bottom: 169, left: 156, right: 97.. These characteristics are consistent with typical dog features.
+
+=== TECHNICAL PROMPTS ===
+
+Prompt: Analyze the color distribution and its impact on the image content.
+Response: The image presents a dog. Analysis of its visual properties reveals: The image has average RGB values of R:128, G:125, B:125 with variations of ±123, ±123, ±123. The overall brightness is 126/255 with a contrast level of 123. Edge density analysis shows 19% of pixels forming edges. Regional brightness varies with top: 83, bottom: 169, left: 156, right: 97.. These characteristics are consistent with typical dog features.
+
+Prompt: How do the edge patterns contribute to the object recognition?
+Response: The image presents a dog. Analysis of its visual properties reveals: The image has average RGB values of R:128, G:125, B:125 with variations of ±123, ±123, ±123. The overall brightness is 126/255 with a contrast level of 123. Edge density analysis shows 19% of pixels forming edges. Regional brightness varies with top: 83, bottom: 169, left: 156, right: 97.. These characteristics are consistent with typical dog features.
+
+Prompt: Describe the relationship between brightness distribution and subject matter.
+Response: The image presents a dog. Analysis of its visual properties reveals: The image has average RGB values of R:128, G:125, B:125 with variations of ±123, ±123, ±123. The overall brightness is 126/255 with a contrast level of 123. Edge density analysis shows 19% of pixels forming edges. Regional brightness varies with top: 83, bottom: 169, left: 156, right: 97.. These characteristics are consistent with typical dog features.
+
+Prompt: What can you infer from the regional brightness variations?
+Response: The image presents a dog. Analysis of its visual properties reveals: The image has average RGB values of R:128, G:125, B:125 with variations of ±123, ±123, ±123. The overall brightness is 126/255 with a contrast level of 123. Edge density analysis shows 19% of pixels forming edges. Regional brightness varies with top: 83, bottom: 169, left: 156, right: 97.. These characteristics are consistent with typical dog features.
+
+Prompt: How do the dominant colors influence the perception of the subject?
+Response: The image presents a dog. Analysis of its visual properties reveals: The image has average RGB values of R:128, G:125, B:125 with variations of ±123, ±123, ±123. The overall brightness is 126/255 with a contrast level of 123. Edge density analysis shows 19% of pixels forming edges. Regional brightness varies with top: 83, bottom: 169, left: 156, right: 97.. These characteristics are consistent with typical dog features.
+
+=== COMPARATIVE PROMPTS ===
+
+Prompt: Compare the visual characteristics of this image with typical examples of its class.
+Response: The image presents a dog. Analysis of its visual properties reveals: The image has average RGB values of R:128, G:125, B:125 with variations of ±123, ±123, ±123. The overall brightness is 126/255 with a contrast level of 123. Edge density analysis shows 19% of pixels forming edges. Regional brightness varies with top: 83, bottom: 169, left: 156, right: 97.. These characteristics are consistent with typical dog features.
+
+Prompt: How does this image's color distribution differ from other images in its category?
+Response: The image presents a dog. Analysis of its visual properties reveals: The image has average RGB values of R:128, G:125, B:125 with variations of ±123, ±123, ±123. The overall brightness is 126/255 with a contrast level of 123. Edge density analysis shows 19% of pixels forming edges. Regional brightness varies with top: 83, bottom: 169, left: 156, right: 97.. These characteristics are consistent with typical dog features.
+
+Prompt: What makes this particular instance unique within its class?
+Response: The image presents a dog. Analysis of its visual properties reveals: The image has average RGB values of R:128, G:125, B:125 with variations of ±123, ±123, ±123. The overall brightness is 126/255 with a contrast level of 123. Edge density analysis shows 19% of pixels forming edges. Regional brightness varies with top: 83, bottom: 169, left: 156, right: 97.. These characteristics are consistent with typical dog features.
+
+Prompt: Analyze how this image's features align with or deviate from its class characteristics.
+Response: The image presents a dog. Analysis of its visual properties reveals: The image has average RGB values of R:128, G:125, B:125 with variations of ±123, ±123, ±123. The overall brightness is 126/255 with a contrast level of 123. Edge density analysis shows 19% of pixels forming edges. Regional brightness varies with top: 83, bottom: 169, left: 156, right: 97.. These characteristics are consistent with typical dog features.
+
+=== FOCUSED PROMPTS ===
+
+Prompt: What is the exact color and appearance of this dog?
+Response: Looking at this dog, I can see the following specific details: The image has average RGB values of R:128, G:125, B:125 with variations of ±123, ±123, ±123. The overall brightness is 126/255 with a contrast level of 123. Edge density analysis shows 19% of pixels forming edges.
+
+Prompt: What specific pose or position is this dog in?
+Response: Looking at this dog, I can see the following specific details: The image has average RGB values of R:128, G:125, B:125 with variations of ±123, ±123, ±123. The overall brightness is 126/255 with a contrast level of 123. Edge density analysis shows 19% of pixels forming edges.
+
+Prompt: What distinguishing features can you see clearly?
+Response: Looking at this dog, I can see the following specific details: The image has average RGB values of R:128, G:125, B:125 with variations of ±123, ±123, ±123. The overall brightness is 126/255 with a contrast level of 123. Edge density analysis shows 19% of pixels forming edges.
+
+Prompt: How does this dog stand out from its background?
+Response: Looking at this dog, I can see the following specific details: The image has average RGB values of R:128, G:125, B:125 with variations of ±123, ±123, ±123. The overall brightness is 126/255 with a contrast level of 123. Edge density analysis shows 19% of pixels forming edges.
+
+Prompt: What makes this particular dog unique or interesting?
+Response: Looking at this dog, I can see the following specific details: The image has average RGB values of R:128, G:125, B:125 with variations of ±123, ±123, ±123. The overall brightness is 126/255 with a contrast level of 123. Edge density analysis shows 19% of pixels forming edges.

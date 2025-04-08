@@ -1,0 +1,91 @@
+
+=== BASIC PROMPTS ===
+
+Prompt: Describe this image in detail.
+Response: This image shows a ship. It is a clear and detailed view, showing distinctive features typical of a ship.
+
+Prompt: What do you see in this image?
+Response: This image shows a ship. It is a clear and detailed view, showing distinctive features typical of a ship.
+
+Prompt: Analyze the contents of this image.
+Response: This image shows a ship. It is a clear and detailed view, showing distinctive features typical of a ship.
+
+Prompt: Explain what's happening in this image.
+Response: This image shows a ship. It is a clear and detailed view, showing distinctive features typical of a ship.
+
+Prompt: Provide a detailed description of this image.
+Response: This image shows a ship. It is a clear and detailed view, showing distinctive features typical of a ship.
+
+=== ANALYTICAL PROMPTS ===
+
+Prompt: Describe what you see in this image, considering its visual characteristics.
+Response: The image presents a ship. Analysis of its visual properties reveals: The image has average RGB values of R:164, G:141, B:142 with variations of ±107, ±122, ±122. The overall brightness is 149/255 with a contrast level of 115. Edge density analysis shows 39% of pixels forming edges. Regional brightness varies with top: 184, bottom: 114, left: 148, right: 150.. These characteristics are consistent with typical ship features.
+
+Prompt: Based on the image analysis, what object or subject is shown?
+Response: The image presents a ship. Analysis of its visual properties reveals: The image has average RGB values of R:164, G:141, B:142 with variations of ±107, ±122, ±122. The overall brightness is 149/255 with a contrast level of 115. Edge density analysis shows 39% of pixels forming edges. Regional brightness varies with top: 184, bottom: 114, left: 148, right: 150.. These characteristics are consistent with typical ship features.
+
+Prompt: How do the color and brightness patterns relate to the content?
+Response: The image presents a ship. Analysis of its visual properties reveals: The image has average RGB values of R:164, G:141, B:142 with variations of ±107, ±122, ±122. The overall brightness is 149/255 with a contrast level of 115. Edge density analysis shows 39% of pixels forming edges. Regional brightness varies with top: 184, bottom: 114, left: 148, right: 150.. These characteristics are consistent with typical ship features.
+
+Prompt: Analyze the image features and explain what they reveal about the subject.
+Response: The image presents a ship. Analysis of its visual properties reveals: The image has average RGB values of R:164, G:141, B:142 with variations of ±107, ±122, ±122. The overall brightness is 149/255 with a contrast level of 115. Edge density analysis shows 39% of pixels forming edges. Regional brightness varies with top: 184, bottom: 114, left: 148, right: 150.. These characteristics are consistent with typical ship features.
+
+Prompt: Describe how the regional brightness differences inform the image content.
+Response: The image presents a ship. Analysis of its visual properties reveals: The image has average RGB values of R:164, G:141, B:142 with variations of ±107, ±122, ±122. The overall brightness is 149/255 with a contrast level of 115. Edge density analysis shows 39% of pixels forming edges. Regional brightness varies with top: 184, bottom: 114, left: 148, right: 150.. These characteristics are consistent with typical ship features.
+
+Prompt: What patterns or structures can you identify from the edge density?
+Response: The image presents a ship. Analysis of its visual properties reveals: The image has average RGB values of R:164, G:141, B:142 with variations of ±107, ±122, ±122. The overall brightness is 149/255 with a contrast level of 115. Edge density analysis shows 39% of pixels forming edges. Regional brightness varies with top: 184, bottom: 114, left: 148, right: 150.. These characteristics are consistent with typical ship features.
+
+Prompt: How do the dominant colors help identify the subject?
+Response: The image presents a ship. Analysis of its visual properties reveals: The image has average RGB values of R:164, G:141, B:142 with variations of ±107, ±122, ±122. The overall brightness is 149/255 with a contrast level of 115. Edge density analysis shows 39% of pixels forming edges. Regional brightness varies with top: 184, bottom: 114, left: 148, right: 150.. These characteristics are consistent with typical ship features.
+
+Prompt: Explain how the brightness distribution relates to the image composition.
+Response: The image presents a ship. Analysis of its visual properties reveals: The image has average RGB values of R:164, G:141, B:142 with variations of ±107, ±122, ±122. The overall brightness is 149/255 with a contrast level of 115. Edge density analysis shows 39% of pixels forming edges. Regional brightness varies with top: 184, bottom: 114, left: 148, right: 150.. These characteristics are consistent with typical ship features.
+
+=== TECHNICAL PROMPTS ===
+
+Prompt: Analyze the color distribution and its impact on the image content.
+Response: The image presents a ship. Analysis of its visual properties reveals: The image has average RGB values of R:164, G:141, B:142 with variations of ±107, ±122, ±122. The overall brightness is 149/255 with a contrast level of 115. Edge density analysis shows 39% of pixels forming edges. Regional brightness varies with top: 184, bottom: 114, left: 148, right: 150.. These characteristics are consistent with typical ship features.
+
+Prompt: How do the edge patterns contribute to the object recognition?
+Response: The image presents a ship. Analysis of its visual properties reveals: The image has average RGB values of R:164, G:141, B:142 with variations of ±107, ±122, ±122. The overall brightness is 149/255 with a contrast level of 115. Edge density analysis shows 39% of pixels forming edges. Regional brightness varies with top: 184, bottom: 114, left: 148, right: 150.. These characteristics are consistent with typical ship features.
+
+Prompt: Describe the relationship between brightness distribution and subject matter.
+Response: The image presents a ship. Analysis of its visual properties reveals: The image has average RGB values of R:164, G:141, B:142 with variations of ±107, ±122, ±122. The overall brightness is 149/255 with a contrast level of 115. Edge density analysis shows 39% of pixels forming edges. Regional brightness varies with top: 184, bottom: 114, left: 148, right: 150.. These characteristics are consistent with typical ship features.
+
+Prompt: What can you infer from the regional brightness variations?
+Response: The image presents a ship. Analysis of its visual properties reveals: The image has average RGB values of R:164, G:141, B:142 with variations of ±107, ±122, ±122. The overall brightness is 149/255 with a contrast level of 115. Edge density analysis shows 39% of pixels forming edges. Regional brightness varies with top: 184, bottom: 114, left: 148, right: 150.. These characteristics are consistent with typical ship features.
+
+Prompt: How do the dominant colors influence the perception of the subject?
+Response: The image presents a ship. Analysis of its visual properties reveals: The image has average RGB values of R:164, G:141, B:142 with variations of ±107, ±122, ±122. The overall brightness is 149/255 with a contrast level of 115. Edge density analysis shows 39% of pixels forming edges. Regional brightness varies with top: 184, bottom: 114, left: 148, right: 150.. These characteristics are consistent with typical ship features.
+
+=== COMPARATIVE PROMPTS ===
+
+Prompt: Compare the visual characteristics of this image with typical examples of its class.
+Response: The image presents a ship. Analysis of its visual properties reveals: The image has average RGB values of R:164, G:141, B:142 with variations of ±107, ±122, ±122. The overall brightness is 149/255 with a contrast level of 115. Edge density analysis shows 39% of pixels forming edges. Regional brightness varies with top: 184, bottom: 114, left: 148, right: 150.. These characteristics are consistent with typical ship features.
+
+Prompt: How does this image's color distribution differ from other images in its category?
+Response: The image presents a ship. Analysis of its visual properties reveals: The image has average RGB values of R:164, G:141, B:142 with variations of ±107, ±122, ±122. The overall brightness is 149/255 with a contrast level of 115. Edge density analysis shows 39% of pixels forming edges. Regional brightness varies with top: 184, bottom: 114, left: 148, right: 150.. These characteristics are consistent with typical ship features.
+
+Prompt: What makes this particular instance unique within its class?
+Response: The image presents a ship. Analysis of its visual properties reveals: The image has average RGB values of R:164, G:141, B:142 with variations of ±107, ±122, ±122. The overall brightness is 149/255 with a contrast level of 115. Edge density analysis shows 39% of pixels forming edges. Regional brightness varies with top: 184, bottom: 114, left: 148, right: 150.. These characteristics are consistent with typical ship features.
+
+Prompt: Analyze how this image's features align with or deviate from its class characteristics.
+Response: The image presents a ship. Analysis of its visual properties reveals: The image has average RGB values of R:164, G:141, B:142 with variations of ±107, ±122, ±122. The overall brightness is 149/255 with a contrast level of 115. Edge density analysis shows 39% of pixels forming edges. Regional brightness varies with top: 184, bottom: 114, left: 148, right: 150.. These characteristics are consistent with typical ship features.
+
+=== FOCUSED PROMPTS ===
+
+Prompt: What is the exact color and appearance of this ship?
+Response: Looking at this ship, I can see the following specific details: The image has average RGB values of R:164, G:141, B:142 with variations of ±107, ±122, ±122. The overall brightness is 149/255 with a contrast level of 115. Edge density analysis shows 39% of pixels forming edges.
+
+Prompt: What specific pose or position is this ship in?
+Response: Looking at this ship, I can see the following specific details: The image has average RGB values of R:164, G:141, B:142 with variations of ±107, ±122, ±122. The overall brightness is 149/255 with a contrast level of 115. Edge density analysis shows 39% of pixels forming edges.
+
+Prompt: What distinguishing features can you see clearly?
+Response: Looking at this ship, I can see the following specific details: The image has average RGB values of R:164, G:141, B:142 with variations of ±107, ±122, ±122. The overall brightness is 149/255 with a contrast level of 115. Edge density analysis shows 39% of pixels forming edges.
+
+Prompt: How does this ship stand out from its background?
+Response: Looking at this ship, I can see the following specific details: The image has average RGB values of R:164, G:141, B:142 with variations of ±107, ±122, ±122. The overall brightness is 149/255 with a contrast level of 115. Edge density analysis shows 39% of pixels forming edges.
+
+Prompt: What makes this particular ship unique or interesting?
+Response: Looking at this ship, I can see the following specific details: The image has average RGB values of R:164, G:141, B:142 with variations of ±107, ±122, ±122. The overall brightness is 149/255 with a contrast level of 115. Edge density analysis shows 39% of pixels forming edges.
